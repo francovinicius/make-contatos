@@ -1,0 +1,34 @@
+.img-perfil {
+    margin: 4rem 0 1rem 0;
+    width: 12rem;
+    border-radius: 50%;
+    border: 3px solid #f5f3f2;
+    box-shadow: 0 0 .5rem #f8f8f8, 0 0 .5rem currentColor;
+}
+
+h3 {
+    color: #d1d0d0;
+    font-weight: bold;
+    text-shadow: 0 0 .1rem #f8f8f8, 0 0 1rem currentColor;
+
+}
+
+.navegacao {
+    gap: 30px;
+    margin-top: .5rem;
+    margin-bottom: -2rem;
+    font-size: 18px;
+
+}
+
+.nav-link {
+    color: #c2c0bf;
+    font-weight: bold;
+}
+
+.slogan { 
+    font-size: 10px;
+    opacity: .5;
+    color: #c2c0bf;
+    margin-top: -.6rem;
+}

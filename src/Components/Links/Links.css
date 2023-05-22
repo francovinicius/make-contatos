@@ -1,0 +1,17 @@
+.section-link {
+
+    margin-top: 4rem;
+    margin-bottom: 7rem;
+}
+
+
+.div-link {
+    width: 80%;
+    padding: 1rem 1rem;
+    background: #0a0a0a;
+    color: #c2c0bf;
+    border-radius: 0.9375rem;
+    box-shadow: 0 0 .5rem #272727, 0 0 .5rem currentColor;
+
+    margin: -.5rem 0 1.2rem 0;
+}

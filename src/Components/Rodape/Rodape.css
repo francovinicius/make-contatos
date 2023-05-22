@@ -1,0 +1,28 @@
+.fixar-rodape{
+    margin-top: 5rem;
+    border-top: 1px solid #5f61647a;
+    width: 100%;
+    padding: 1rem 0;
+}
+
+span {
+    color: antiquewhite;
+}
+
+@media screen and (min-width:600px) {
+    .fixar-rodape{
+        margin-top: 15rem;
+    }
+}
+
+@media screen and (min-width:700px) {
+    .fixar-rodape{
+        margin-top: 25rem;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .fixar-rodape{
+        margin-top: 50rem;
+    }
+}
